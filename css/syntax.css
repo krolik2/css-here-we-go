@@ -1,10 +1,3 @@
 #banner{
-    background-color: #606060;
-    width: 100%;
-    height: 300px;
-    background-image: url(https://imgplaceholder.com/100x150/transparent/757575/fa-android),
-    url(http://placekitten.com/1300/300);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    background-color: rgb(250, 150, 60);
 }
